@@ -1,11 +1,11 @@
 # Coinbase Clone — White-Label Cryptocurrency Exchange Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxcryptob.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/coinbase-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/coinbase-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/coinbase-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/coinbase-clone/#features)
 
-**MXCryptob** is a production-ready, white-label Coinbase clone: a complete crypto-exchange platform with spot/futures, KYC/AML, and admin controls — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Coinbase clone: a complete crypto-exchange platform with spot/futures, KYC/AML, and admin controls — delivered with **100% source code ownership** in **6 working days**.
 
 > 💰 **See it running before you talk to anyone.** Live trader app, web terminal, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/coinbase-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Trader App | [mas.mimeld.com](https://mas.mimeld.com) | Spot, futures, wallet, orders — mobile trading |
-| 🌐 Web Terminal | [mxcryptob.mimeld.com](https://mxcryptob.mimeld.com) | Pro-grade chart, order book, depth, trades |
+| 🌐 Web Terminal | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Pro-grade chart, order book, depth, trades |
 | 🛡️ Compliance Console | [Solution page → Demo](https://miracuves.com/coinbase-clone#demo) | KYC/AML, transaction monitoring, SARs |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/coinbase-clone#demo) | Pairs, liquidity, fees, security, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/coinbase-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/coinbase-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom crypto exchanges run $200k–$1.5M and 8–18 months. A proven white-labe
 ## 📚 Resources
 
 - 📖 [Coinbase Clone — Full Solution Page](https://miracuves.com/coinbase-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Crypto Exchange Cost in 2026?](https://miracuves.com/coinbase-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Coinbase Clone Script in 2026](https://miracuves.com/coinbase-clone/blog/) features, pricing & launch guide
-- 🧠 [Matching Engine Architecture for Crypto Exchanges](https://miracuves.com/coinbase-clone/blog/) 1M+ orders/sec, latency, fairness
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/coinbase-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Crypto Exchange Cost in 2026?](https://miracuves.com/coinbase-clone#features) pricing breakdown & what's included
+- 📝 [Best Coinbase Clone Script in 2026](https://miracuves.com/coinbase-clone#features) features, pricing & launch guide
+- 🧠 [Matching Engine Architecture for Crypto Exchanges](https://miracuves.com/coinbase-clone#features) 1M+ orders/sec, latency, fairness
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/coinbase-clone#faq) every claim we make, verified
+- 💻 [Coinbase Clone — Technical Stack](https://miracuves.com/coinbase-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Coinbase Clone — How It Works / User Flow](https://miracuves.com/coinbase-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom crypto exchanges run $200k–$1.5M and 8–18 months. A proven white-labe
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/coinbase-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/coinbase-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: coinbase clone, coinbase clone script, crypto exchange, cryptocurrency exchange, white label crypto, trading platform, spot futures, Flutter crypto app, Node.js exchange*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Coinbase Clone
-{MX_NAME}         MXCryptob
+{MX_NAME}         MXDemo
 {CATEGORY}        Cryptocurrency Exchange Platform
-{DEMO_WEB}        mxcryptob.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $6,999
 {SLUG}            coinbase-clone
 {SOLUTION_URL}    https://miracuves.com/coinbase-clone/
